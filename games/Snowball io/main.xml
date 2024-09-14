@@ -1,10 +1,10 @@
 <Module>
 <ModulePrefs title="Snowball.io"/>
 <Content type="html">
-<![CDATA[ <link rel="stylesheet" href="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/style.css?token=GHSAT0AAAAAACXCZF3QHEPP4ACHIA2WTBGAZXFYKVA"> 
-  <script src="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/unityprogress.js?token=GHSAT0AAAAAACXCZF3RYKNKPEACGATVN5PWZXFYL6A"></script>
-  <script src="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/sb.js?token=GHSAT0AAAAAACXCZF3R72IUWXXHBAFG26WYZXFYOLQ"></script>
-  <script> var gameInstance = UnityLoader.instantiate("gameContainer", "https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/sb.json?token=GHSAT0AAAAAACXCZF3QAJ5IJDNEWZGDAPH2ZXFYNMA", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}}); </script> 
-  <script src="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/scr.js?token=GHSAT0AAAAAACXCZF3QZVQWAZYKUTOIUSX2ZXFYPNQ"></script> <div class="webgl-content"> <div id="gameContainer" style="width: 100vw; height: 100vh"></div> </div> ]]>
+<![CDATA[ <link rel="stylesheet" href="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/style.css"> 
+  <script src="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/unityprogress.js"></script>
+  <script src="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/sb.js"></script>
+  <script> var gameInstance = UnityLoader.instantiate("gameContainer", "https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/sb.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}}); </script> 
+  <script src="https://raw.githubusercontent.com/Rhombicosidodecahedron01/Big-monke-bypass/main/games/Snowball%20io/scr.js"></script> <div class="webgl-content"> <div id="gameContainer" style="width: 100vw; height: 100vh"></div> </div> ]]>
 </Content>
 </Module>
